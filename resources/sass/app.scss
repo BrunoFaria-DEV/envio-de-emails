@@ -1,0 +1,25 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+// Toast Plugin
+@import 'jquery-toast-plugin/dist/jquery.toast.min.css';
+
+// Selectize
+@import '@selectize/selectize/dist/css/selectize.bootstrap5.css';
+
+// Font Awesome
+$fa-font-path: "@fortawesome/fontawesome-free/webfonts";
+@import '@fortawesome/fontawesome-free/scss/fontawesome';
+@import '@fortawesome/fontawesome-free/scss/regular';
+@import '@fortawesome/fontawesome-free/scss/solid';
+@import '@fortawesome/fontawesome-free/scss/brands';
+
+
+// Styles
+@import 'styles';
